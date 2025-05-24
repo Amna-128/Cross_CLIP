@@ -1,1 +1,1 @@
-# Cross_CLIP
+# Cross_CLIP: Cross Modal Image Retrieval
